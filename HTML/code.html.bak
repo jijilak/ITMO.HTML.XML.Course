@@ -1,0 +1,8 @@
+<html>
+<head>
+<body>
+<p>Для обозначения ввода с клавиатуры используется тэг &lt;kbd&gt;</p>
+<p><kbd>File | Save...</kbd></p>
+</body>
+</head>
+</html>

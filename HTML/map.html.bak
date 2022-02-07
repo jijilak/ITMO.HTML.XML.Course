@@ -1,0 +1,13 @@
+<html>
+<body>
+<table>
+<img src = "images/button_4.jpg"  usemap = "#MyMap">
+<map name = "MyMap">
+<area shape="circle" alt="yandex.ru" title=""
+coords="204,105,52"
+href="http://yandex.ru" />
+</map>
+
+</table>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version = "1.0"?>
+<!DOCTYPE schedule SYSTEM "lessons_DTD.dtd">
+<schedule>
+	<discipline id = "a">
+	<Name>Никита</Name>
+		<MiddleName>Алексеевич</MiddleName>
+		<LastName>Осипов</LastName>
+		<Lesson>"Технологии программирования"</Lesson>
+		<Post>преподаватель доцент</Post>
+		<DateLessons>27, 28, 30.09, 01, 04, 07, 11, 12, 14.10</DateLessons>
+		<Address>online</Address>
+		<NumberOfHours>45</NumberOfHours>
+		<FinalGrade>зачёт</FinalGrade>
+	</discipline>
+<discipline id = "b">
+		<Name>Денис</Name>
+		<MiddleName>Викторович</MiddleName>
+		<LastName>Ямщиков</LastName>
+		<Lesson>"Введение в базы данных"</Lesson>
+		<Post>старший преподаватель</Post>
+		<DateLessons>18, 19, 21, 22, 25, 26.10</DateLessons>
+		<Address>online</Address>
+		<NumberOfHours>30</NumberOfHours>
+		<FinalGrade>зачёт</FinalGrade>
+	</discipline>
+	<discipline id = "c">
+		<Name>Олег</Name>
+		<MiddleName>Александрович</MiddleName>
+		<LastName>Третьяков</LastName>
+		<Lesson>"Программирование на C#"</Lesson>
+		<Post>старший преподаватель</Post>
+		<DateLessons>02, 03, 09, 10, 12, 16, 17, 19, 23, 24.11</DateLessons>
+		<Address>online</Address>
+		<NumberOfHours>30</NumberOfHours>
+		<FinalGrade>зачёт</FinalGrade>
+	</discipline>
+		<discipline id = "d">
+		<Name>Денис</Name>
+		<MiddleName>Викторович</MiddleName>
+		<LastName>Ямщиков</LastName>
+		<Lesson>"Transact-SQL и Разработка Microsoft SQL Server"</Lesson>
+		<Post>старший преподаватель</Post>
+		<DateLessons>02-28.12</DateLessons>
+		<Address>online</Address>
+		<NumberOfHours>65</NumberOfHours>
+		<FinalGrade>экзамен</FinalGrade>
+	</discipline>
+</schedule>

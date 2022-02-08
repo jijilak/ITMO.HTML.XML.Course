@@ -1,0 +1,46 @@
+<!ELEMENT schedule (item+)>
+	
+	<ELEMENT discipline id = "a"(Name, MiddleName, LastName, Lesson, Post, DateLessons, Address, NumberOfHours, FinalGrade)>
+	<!ELEMENT Name (#PCDATA)>
+	<!ELEMENT MiddleName (#PCDATA)>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT Lesson (#PCDATA)>
+	<!ELEMENT Post (#PCDATA)>
+	<!ELEMENT DateLessons (#PCDATA)>
+	<!ELEMENT Address (#PCDATA)>
+	<!ELEMENT NumberOfHours (#PCDATA)>
+	<!ELEMENT FinalGrade (#PCDATA)>
+	
+	<ELEMENT discipline id = "b"(Name, MiddleName, LastName, Lesson, Post, DateLessons, Address, NumberOfHours, FinalGrade)>
+	<!ELEMENT Name (#PCDATA)> 
+	<!ELEMENT MiddleName (#PCDATA)>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT Lesson (#PCDATA)>
+	<!ELEMENT Post (#PCDATA)>
+	<!ELEMENT DateLessons (#PCDATA)>
+	<!ELEMENT Address (#PCDATA)>
+	<!ELEMENT NumberOfHours (#PCDATA)>
+	<!ELEMENT FinalGrade (#PCDATA)>
+	
+	<ELEMENT discipline id = "c"(Name, MiddleName, LastName, Lesson, Post, DateLessons, Address, NumberOfHours, FinalGrade)>
+	<!ELEMENT Name (#PCDATA)> 
+	<!ELEMENT MiddleName (#PCDATA)>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT Lesson (#PCDATA)>
+	<!ELEMENT Post (#PCDATA)>
+	<!ELEMENT DateLessons (#PCDATA)>
+	<!ELEMENT Address (#PCDATA)>
+	<!ELEMENT NumberOfHours (#PCDATA)>
+	<!ELEMENT FinalGrade (#PCDATA)>
+	
+	<ELEMENT discipline id = "d"(Name, MiddleName, LastName, Lesson, Post, DateLessons, Address, NumberOfHours, FinalGrade)>
+	<!ELEMENT Name (#PCDATA)> 
+	<!ELEMENT MiddleName (#PCDATA)>
+	<!ELEMENT LastName (#PCDATA)>
+	<!ELEMENT Lesson (#PCDATA)>
+	<!ELEMENT Post (#PCDATA)>
+	<!ELEMENT DateLessons (#PCDATA)>
+	<!ELEMENT Address (#PCDATA)>
+	<!ELEMENT NumberOfHours (#PCDATA)>
+	<!ELEMENT FinalGrade (#PCDATA)>
+	

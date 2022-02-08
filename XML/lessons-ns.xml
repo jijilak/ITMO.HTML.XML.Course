@@ -1,0 +1,53 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:TimeTable xmlns:myns = "http://www.itmo.ru/xml/lessons">
+<myns:schedule>
+	<myns:discipline id = "a">
+		<myns:Name>Никита</myns:Name>
+		<myns:MiddleName>Алексеевич</myns:MiddleName>
+		<myns:LastName>Осипов</myns:LastName>
+		<myns:Lesson>"Технологии программирования"</myns:Lesson>
+		<myns:Post>преподаватель доцент</myns:Post>
+		<myns:DateLessons>27, 28, 30.09, 01, 04, 07, 11, 12, 14.10</myns:DateLessons>
+		<myns:Address>online</myns:Address>
+		<myns:NumberOfHours>45</myns:NumberOfHours>
+		<myns:FinalGrade>зачёт</myns:FinalGrade>
+		<myns:info>"https://itmo.ru/ru/viewfaculty/7/fakultet_informacionnyh_tehnologiy_i_programmirovaniya.htm"</myns:info>
+	</myns:discipline>
+<myns:discipline id = "b">
+		<myns:Name>Денис</myns:Name>
+		<myns:MiddleName>Викторович</myns:MiddleName>
+		<myns:LastName>Ямщиков</myns:LastName>
+		<myns:Lesson>"Введение в базы данных"</myns:Lesson>
+		<myns:Post>старший преподаватель</myns:Post>
+		<myns:DateLessons>18, 19, 21, 22, 25, 26.10</myns:DateLessons>
+		<myns:Address>online</myns:Address>
+		<myns:NumberOfHours>30</myns:NumberOfHours>
+		<myns:FinalGrade>зачёт</myns:FinalGrade>
+		<myns:info>"http://books.ifmo.ru/book/569/vvedenie_v_sistemy_baz_dannyh.htm"</myns:info>
+	</myns:discipline>
+	<myns:discipline id = "c">
+		<myns:Name>Олег</myns:Name>
+		<myns:MiddleName>Александрович</myns:MiddleName>
+		<myns:LastName>Третьяков</myns:LastName>
+		<myns:Lesson>"Программирование на C#"</myns:Lesson>
+		<myns:Post>старший преподаватель</myns:Post>
+		<myns:DateLessons>02, 03, 09, 10, 12, 16, 17, 19, 23, 24.11</myns:DateLessons>
+		<myns:Address>online</myns:Address>
+		<myns:NumberOfHours>30</myns:NumberOfHours>
+		<myns:FinalGrade>зачёт</myns:FinalGrade>
+		<myns:info>"http://itcenter.itmo.ru/programmirovanie_na_c"</myns:info>
+	</myns:discipline>
+		<myns:discipline id = "d">
+		<myns:Name>Денис</myns:Name>
+		<myns:MiddleName>Викторович</myns:MiddleName>
+		<myns:LastName>Ямщиков</myns:LastName>
+		<myns:Lesson>"Transact-SQL и Разработка Microsoft SQL Server"</myns:Lesson>
+		<myns:Post>старший преподаватель</myns:Post>
+		<myns:DateLessons>02-28.12</myns:DateLessons>
+		<myns:Address>online</myns:Address>
+		<myns:NumberOfHours>65</myns:NumberOfHours>
+		<myns:FinalGrade>экзамен</myns:FinalGrade>
+		<myns:info>"http://itcenter.itmo.ru/transact-sql-i-realizaciya-baz-dann"</myns:info>
+	</myns:discipline>
+</myns:schedule>
+</myns:TimeTable>
